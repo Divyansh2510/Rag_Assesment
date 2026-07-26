@@ -1,0 +1,22 @@
+# Environments
+.env
+.env.local
+.venv
+env/
+venv/
+ENV/
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# ChromaDB persistence directory
+chroma_db/
+*.sqlite3
+
+# Test & uploaded PDFs
+*.pdf

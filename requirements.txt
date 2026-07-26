@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+chromadb
+sentence-transformers
+presidio-analyzer
+presidio-anonymizer
+pypdf
+python-dotenv
